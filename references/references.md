@@ -173,3 +173,58 @@ limitation of standard feature-attribution explanations when
 features are not independent.
 
 **Link:** https://proceedings.neurips.cc/paper_files/paper/2020/hash/32e54441e6382a7fbacbbbaf3c450059-Abstract.html
+### 11. A Survey of Methods for Explaining Black Box Models
+
+* **Authors:** Riccardo Guidotti, Anna Monreale, Salvatore Ruggieri, Franco Turini, Fosca Giannotti, Dino Pedreschi
+* **Year:** 2018
+* **Venue:** ACM Computing Surveys
+* **Topic:** Explainable AI / Black-box Models
+* **Relevance:** Provides a comprehensive survey of techniques for explaining predictions made by black-box machine-learning models. It is useful for understanding the broader explainability landscape in which methods such as LIME and SHAP are used.
+* **DOI:** https://doi.org/10.1145/3236009
+
+---
+
+### 12. Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI
+
+* **Authors:** Alejandro Barredo Arrieta et al.
+* **Year:** 2020
+* **Venue:** Information Fusion
+* **Topic:** Explainable AI / XAI Taxonomy
+* **Relevance:** Presents a broad taxonomy of explainable AI methods and discusses interpretability, explainability, evaluation, and challenges associated with responsible AI.
+* **DOI:** https://doi.org/10.1016/j.inffus.2019.12.012
+
+---
+
+### 13. A Comprehensive Taxonomy for Explainable Artificial Intelligence: A Systematic Survey of Surveys on Methods and Concepts
+
+* **Authors:** Oliver Schwalbe and Nina Finzel
+* **Year:** 2023
+* **Venue:** Data Mining and Knowledge Discovery
+* **Topic:** XAI Taxonomy / Explainability
+* **Relevance:** Systematically organizes existing explainable-AI methods and concepts. This provides useful background for categorizing and comparing different explanation approaches.
+* **DOI:** https://doi.org/10.1007/s10618-022-00867-8
+
+---
+
+### 14. Benchmarking and Survey of Explanation Methods for Black Box Models
+
+* **Authors:** Various authors
+* **Year:** 2023
+* **Venue:** Data Mining and Knowledge Discovery
+* **Topic:** Explanation Methods / Benchmarking
+* **Relevance:** Examines and benchmarks explanation methods for black-box models, making it particularly relevant to comparing the behavior and quality of different explanation techniques.
+* **DOI:** https://doi.org/10.1007/s10618-023-00933-9
+
+---
+
+### 15. Explaining Individual Predictions When Features Are Dependent: More Accurate Approximations to Shapley Values
+
+* **Authors:** Aas, K.; Jullum, M.; Løland, A.
+* **Year:** 2021
+* **Venue:** Artificial Intelligence
+* **Topic:** SHAP / Dependent Features
+* **Relevance:** Investigates how feature dependence affects SHAP explanations and proposes more accurate approaches for estimating Shapley values when input features are dependent.
+* **Volume:** 298
+* **Article:** 103502
+* **DOI:** https://doi.org/10.1016/j.artint.2021.103502
+
