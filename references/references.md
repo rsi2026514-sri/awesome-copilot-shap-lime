@@ -87,3 +87,89 @@ helps place methods such as LIME and SHAP within a common
 explanation framework.
 
 **Link:** https://jmlr.csail.mit.edu/papers/volume22/20-1316/20-1316.pdf
+---
+
+## 6. SHAP and LIME Comparison
+
+### 6. A Perspective on Explainable Artificial Intelligence Methods: SHAP and LIME
+
+**Authors:** Ahmed Salih, Zahra Raisi-Estabragh, Ilaria Boscolo Galazzo, Petia Radeva, Steffen E. Petersen, Gloria Menegaz, and Karim Lekadir  
+**Year:** 2023  
+**Topic:** SHAP vs. LIME / Explainable AI  
+
+**Relevance:** This paper directly compares SHAP and LIME and discusses
+how their explanation outputs are affected by model dependency and
+feature collinearity. It is highly relevant to comparing different
+explanation approaches.
+
+**Link:** https://arxiv.org/abs/2305.02012
+
+---
+
+## 7. Bias and Variance of LIME and SHAP
+
+### 7. On the Bias-Variance Characteristics of LIME and SHAP in High Sparsity Movie Recommendation Explanation Tasks
+
+**Authors:** Claudia V. Roberts, Ehtsham Elahi, and Ashok Chandrashekar  
+**Year:** 2022  
+**Topic:** LIME vs. SHAP / Explanation Stability  
+
+**Relevance:** This study evaluates LIME and SHAP on a movie
+recommendation task and examines how the two methods behave under
+different data sparsity conditions. It is useful for understanding
+differences in the stability and reliability of their outputs.
+
+**Link:** https://arxiv.org/abs/2206.04784
+
+---
+
+## 8. Unified Framework for Model Explanation
+
+### 8. Explaining by Removing: A Unified Framework for Model Explanation
+
+**Authors:** Ian Covert, Scott Lundberg, and Su-In Lee  
+**Year:** 2021  
+**Venue:** Journal of Machine Learning Research, Volume 22  
+**Topic:** Model Explanation / SHAP / LIME  
+
+**Relevance:** This work develops a unified framework for
+removal-based explanations and relates multiple explanation
+approaches, including SHAP and LIME. It is useful for understanding
+the theoretical differences between explanation methods.
+
+**Link:** https://www.jmlr.org/beta/papers/v22/20-1316.html
+
+---
+
+## 9. Disagreement Between Explainability Methods
+
+### 9. Order in the Court: Explainable AI Methods Prone to Disagreement
+
+**Authors:** Michael Neely, Stefan F. Schouten, Maurits J. R. Bleeker, and Ana Lucic  
+**Year:** 2021  
+**Topic:** Explanation Comparison / Explanation Agreement  
+
+**Relevance:** This paper compares several explanation methods,
+including LIME and SHAP-based approaches, and investigates how much
+different explanation techniques agree with one another. This is
+directly relevant to evaluating and comparing explanation outputs.
+
+**Link:** https://arxiv.org/abs/2105.03287
+
+---
+
+## 10. Causal Shapley Values
+
+### 10. Causal Shapley Values: Exploiting Causal Knowledge to Explain Individual Predictions of Complex Models
+
+**Authors:** Tom Heskes, Evi Sijben, Ioan Gabriel Bucur, and Tom Claassen  
+**Year:** 2020  
+**Venue:** Advances in Neural Information Processing Systems 33 (NeurIPS 2020)  
+**Topic:** SHAP / Causal Explainability  
+
+**Relevance:** This paper extends Shapley-based explanations by
+incorporating causal knowledge. It demonstrates an important
+limitation of standard feature-attribution explanations when
+features are not independent.
+
+**Link:** https://proceedings.neurips.cc/paper_files/paper/2020/hash/32e54441e6382a7fbacbbbaf3c450059-Abstract.html
