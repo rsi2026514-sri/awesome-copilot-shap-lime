@@ -227,4 +227,75 @@ features are not independent.
 * **Volume:** 298
 * **Article:** 103502
 * **DOI:** https://doi.org/10.1016/j.artint.2021.103502
+* ### 16. Axiomatic Attribution for Deep Networks
+
+* **Authors:** Mukund Sundararajan, Ankur Taly, Qiqi Yan
+* **Year:** 2017
+* **Venue:** Proceedings of the 34th International Conference on Machine Learning (ICML)
+* **Topic:** Feature Attribution / Explainable AI
+* **Relevance:** Introduces Integrated Gradients, an attribution method for explaining deep neural-network predictions. The paper defines the Sensitivity and Implementation Invariance axioms for attribution methods.
+* **Pages:** 3319–3328
+* **Link:** https://proceedings.mlr.press/v70/sundararajan17a.html
+
+Verified from Proceedings of Machine Learning Research.
+
+---
+
+### 17. Fooling LIME and SHAP: Adversarial Attacks on Post hoc Explanation Methods
+
+* **Authors:** Dylan Slack, Sophie Hilgard, Emily Jia, Sameer Singh, Himabindu Lakkaraju
+* **Year:** 2020
+* **Venue:** Proceedings of the 2020 AAAI/ACM Conference on AI, Ethics, and Society (AIES '20)
+* **Topic:** LIME / SHAP / Explanation Reliability
+* **Relevance:** Demonstrates that post-hoc explanation techniques such as LIME and SHAP can be manipulated by adversarial techniques, raising important concerns about the reliability of explanations.
+* **Pages:** 180–186
+* **DOI:** https://doi.org/10.1145/3375627.3375830
+
+The official AIES material and bibliographic records confirm the paper and DOI.
+
+---
+
+### 18. Anchors: High-Precision Model-Agnostic Explanations
+
+* **Authors:** Marco Tulio Ribeiro, Sameer Singh, Carlos Guestrin
+* **Year:** 2018
+* **Venue:** Proceedings of the AAAI Conference on Artificial Intelligence
+* **Topic:** Model-Agnostic Explainability
+* **Relevance:** Introduces Anchors, a model-agnostic explanation technique that uses high-precision rules to describe sufficient conditions for a model's prediction. It provides another useful approach for comparison with LIME and SHAP.
+* **Volume:** 32
+* **Issue:** 1
+* **Pages:** 1527–1535
+* **DOI:** https://doi.org/10.1609/aaai.v32i1.11491
+
+Verified from the official AAAI proceedings.
+
+---
+
+### 19. Explanation in Artificial Intelligence: Insights from the Social Sciences
+
+* **Author:** Tim Miller
+* **Year:** 2019
+* **Venue:** Artificial Intelligence
+* **Topic:** Human-Centered Explainable AI
+* **Relevance:** Examines explanations from the perspectives of philosophy, psychology, and cognitive science and discusses how these insights can improve explanations produced by AI systems.
+* **Volume:** 267
+* **Pages:** 1–38
+* **DOI:** https://doi.org/10.1016/j.artint.2018.07.007
+
+Verified from the journal's ScienceDirect record.
+
+---
+
+### 20. Towards A Rigorous Science of Interpretable Machine Learning
+
+* **Authors:** Finale Doshi-Velez, Been Kim
+* **Year:** 2017
+* **Type:** Position Paper / arXiv
+* **Topic:** Interpretability / XAI Evaluation
+* **Relevance:** Discusses the lack of consensus about how interpretability should be defined and measured and proposes a framework for developing more rigorous evaluation methods for interpretable machine learning.
+* **arXiv:** 1702.08608
+* **Link:** https://arxiv.org/abs/1702.08608
+
+Verified through Google Research and arXiv.
+
 
